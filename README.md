@@ -1,4 +1,4 @@
-# Inform-tica-Aplicada
+# Informática Aplicada à Logística
 # Apresentação Pessoal em Equipe
 Atividade realizada durante a primeira semana de aula, com o objetivo de apresentar os integrantes da equipe, compartilhar experiências e interesses promovendo a integração entre os participantes.
 <img width="1324" height="755" alt="image" src="https://github.com/user-attachments/assets/b9f176d1-dcde-4ab0-81b7-6fe7fb61b054" />
